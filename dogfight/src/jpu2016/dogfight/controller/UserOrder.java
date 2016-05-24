@@ -14,4 +14,8 @@ public class UserOrder {
 	public int getPlayer() {
 
 	}
+
+	public void setPlayer(final int player) {
+		this.player = player;
+	}
 }
