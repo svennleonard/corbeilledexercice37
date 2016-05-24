@@ -1,10 +1,19 @@
 package jpu2016.dogfight.view;
 
+import java.util.Observable;
+
 public class DogfightView {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public DogfightView(IOrderPerformer orderPerformer, IDogfightModel dogfightModel, Observable observable) {
+		
+	}
+	
+	private void run() {
+		
+	}
+	
+	public void closeAll() {
+		
 	}
 
 }
